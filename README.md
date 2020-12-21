@@ -1,2 +1,2 @@
-# The-round-of-Crime
-Team project for a board game
+# -
+Ομάδα 26 - Ο Γύρος του Εγκλήματος
